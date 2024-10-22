@@ -1,0 +1,4 @@
+numero_voo,origem,destino,duracao,custo,horario
+1234,São Paulo,Rio de Janeiro,1.5,3000,10:00
+5678,Recife,Salvador,2,4500,10:00
+3456,Brasília,Fortaleza,2.5,6000,12:00
